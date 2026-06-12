@@ -6,6 +6,12 @@ Currency Converter is a Java-based console application that allows users to conv
 
 The application supports multiple international currencies and offers several useful features including single currency conversion, batch conversion, exchange rate viewing, conversion history tracking, and the ability to switch between online and offline modes. This ensures that users can continue using the application even when internet connectivity is unavailable.
 
+## 🚀 Live Demo
+
+Run online on Replit:
+
+https://replit.com/@srirambehera035/Currency-Converter
+
 ## ✨ Key Features
 - 🔄 Real-Time Currency Conversion
   - Fetches live exchange rates using the ExchangeRate API.
