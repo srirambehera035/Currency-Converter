@@ -12,6 +12,14 @@ Run online on Replit:
 
 https://replit.com/@srirambehera035/Currency-Converter
 
+steps:-
+  After entering to Replit followed by the above link
+  - enter -> javac CurrencyConverter.java
+  - then -> java CurrencyConverter
+## 🎥 Demo
+
+![Currency Converter Demo](CurrencyConverter.gif)
+
 ## ✨ Key Features
 - 🔄 Real-Time Currency Conversion
   - Fetches live exchange rates using the ExchangeRate API.
